@@ -1,0 +1,19 @@
+{
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.parameterHints.enabled": true,
+    "notebook.editorOptionsCustomizations": {
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        },
+        "editor.suggestOnTriggerCharacters": true,
+        "editor.parameterHints.enabled": true
+    },
+    "python.languageServer": "Pylance"
+}
